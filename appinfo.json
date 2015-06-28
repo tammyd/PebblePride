@@ -6,7 +6,7 @@
     "capabilities": [
         ""
     ],
-    "companyName": "canadiangeekgirl@gmail.com",
+    "companyName": "tammyd@gmail.com",
     "longName": "Pride",
     "projectType": "native",
     "resources": {
@@ -28,6 +28,6 @@
     "uuid": "4702b99f-720a-403b-8047-9fa2a29e8968",
     "versionLabel": "1.0",
     "watchapp": {
-        "watchface": false
+        "watchface": true
     }
 }
