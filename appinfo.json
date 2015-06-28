@@ -1,0 +1,33 @@
+{
+    "appKeys": {
+        "message": 1,
+        "status": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "canadiangeekgirl@gmail.com",
+    "longName": "Pride",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/Pride.png",
+                "name": "IMAGE_PRIDE_BACKGROUND",
+                "type": "png"
+            },
+            {
+                "file": "fonts/PoiretOne-Regular.ttf",
+                "name": "FONT_POIRETONE_48",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Pride",
+    "uuid": "4702b99f-720a-403b-8047-9fa2a29e8968",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
