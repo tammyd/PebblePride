@@ -6,9 +6,13 @@
     "capabilities": [
         ""
     ],
-    "companyName": "tammyd@gmail.com",
-    "longName": "Pride",
+    "companyName": "BlackPawTech",
+    "longName": "Pebble Pride",
     "projectType": "native",
+    "sdkVersion": "3",
+    "targetPlatforms": [
+      "basalt"
+    ],
     "resources": {
         "media": [
             {
@@ -17,8 +21,13 @@
                 "type": "png"
             },
             {
-                "file": "fonts/PoiretOne-Regular.ttf",
-                "name": "FONT_POIRETONE_48",
+                "file": "fonts/FredokaOne-Regular.ttf",
+                "name": "FONT_FREDOKAONE_40",
+                "type": "font"
+            },
+            {
+                "file": "fonts/FredokaOne-Regular.ttf",
+                "name": "FONT_FREDOKAONE_20",
                 "type": "font"
             }
         ]
